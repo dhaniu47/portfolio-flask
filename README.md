@@ -1,18 +1,29 @@
-# Python Flask Portfolio Website
+# Portfolio Website (Flask)
 
-A professional full-stack developer portfolio built using Python Flask.
+This is my personal portfolio website built using Python Flask.
 
 ## Features
-- Modern UI
-- Flask backend
-- Contact form with backend handling
+- Home page
+- Projects page
+- Experience page
+- Contact form
 
-## Tech Stack
+## Technologies Used
 - Python
 - Flask
-- HTML, CSS
-- VS Code
+- HTML
+- CSS
 
-## Run Project
-```bash
-python app.py
+## How to Run Locally
+
+pip install -r requirements.txt  
+python app.py  
+
+Open browser and go to:  
+http://127.0.0.1:5000
+
+## Live Demo
+(Will be added soon)
+
+## Author
+Dhaneswari Behera
